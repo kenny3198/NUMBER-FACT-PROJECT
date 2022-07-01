@@ -1,0 +1,24 @@
+{
+  "name": "year-fact-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-css": "npx tailwindcss -i ./src/style.css -o ./public/output.style.css --watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenny3198/NUMBER-FACT-PROJECT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenny3198/NUMBER-FACT-PROJECT/issues"
+  },
+  "homepage": "https://github.com/kenny3198/NUMBER-FACT-PROJECT#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
